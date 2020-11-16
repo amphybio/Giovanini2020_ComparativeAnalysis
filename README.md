@@ -6,4 +6,4 @@ Maple code] of the research article "**A comparative analysis of noise propertie
 The contents in this repository are:
 * The [Maple worksheet file](ComparativeAnalysis_ProbabilitesAndMoments.mw), "ComparativeAnalysis_ProbabilitesAndMoments.mw";
 
-* The html folder with Maple worksheet transformed in [html file](html/README.MD).
+* The html folder with Maple worksheet transformed in [html file](html/README.md).
