@@ -6,4 +6,4 @@
 The contents in this repository are:
 * The Maple worksheet file, "ComparativeAnalysis_ProbabilitesAndMoments.mw";
 
-* The html folder within Maple worksheet transformed in html.
+* The html folder with Maple worksheet transformed in html.
