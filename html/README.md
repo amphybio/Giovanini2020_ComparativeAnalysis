@@ -1,5 +1,5 @@
 
-**ComparativeAnalysisNoise_ProbabilitesAndMoments**
+**ComparativeAnalysis_ProbabilitesAndMoments**
 <html>
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -1059,13 +1059,6 @@
 <td valign="top" align="center"><font color="#000000" size="3" face="Times New Roman"><img src="img/ComparativeAnalysisNoise_ProbabilitesAndMoments_383.gif" width="400" height="400" alt="Plot_2d" align="center" border="0"></td>
 <td width='5%' align='center'></td>
 </tr>
-</table></font>&nbsp;</p>
-<p align="left"><table>
-<tr>
-<td valign="top" align="center"><font color="#ff0000" size="3" face="monospace"><strong>&gt; </strong></font></td>
-<td valign="top"></td>
-</tr>
-</table>&nbsp;</p>
 </dl>
 </dl>
 </dl>
